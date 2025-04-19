@@ -1,5 +1,4 @@
 # GuardianReviewAI 🛡️🤖  
-**Uma IA que protege a qualidade do código com revisões inteligentes.**  
 
 ## 📌 Visão Geral  
 GuardianReviewAI é um agente de revisão de código baseado em **Python**, utilizando **LLM Ollama** para análise inteligente e a **GitHub API** para publicação automática de comentários e sugestões em pull requests.  
